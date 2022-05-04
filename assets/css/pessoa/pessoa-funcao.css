@@ -1,5 +1,6 @@
 .pessoa__funcao {
-    display: inherit;
-    text-align: center;
     font-weight: 100;
+    font-size: 1.25rem;
+    color: #595959;
+    text-transform: lowercase;
 }
